@@ -3,6 +3,10 @@ tones
 
 The Web Audio API is pretty amazing. You can actually synthesize audio with JavaScript right in the browser. The only problem is that it's pretty low level and not exactly intuitive to work with. This library is meant to make it as simple as humanly possible to create pleasant sounding musical tones.
 
+See a few demos of tones in action here:
+
+http://bit101.github.io/tones/
+
 The tones api is drop dead simple. One main method: `play`.
 
 The play method can be used in a few different ways:
