@@ -17,6 +17,7 @@
             envelope.gain.setValueAtTime(0, this.context.currentTime);
             envelope.gain.setTargetAtTime(this.volume, this.context.currentTime, this.attack / 1000);
             if(this.release) {
+                // start time of next call should be current time + 10x attack value in seconds.
                 envelope.gain.setTargetAtTime(0, this.context.currentTime + this.attack / 100, this.release / 1000);
                 setTimeout(function() {
                     osc.stop();
@@ -259,6 +260,9 @@
             "b": 15804.264
         }]
     };
+
+    // need to create a node in order to kick off the timer in Chrome.
+    tones.context.createGain();
 
     if (typeof define === "function" && define.amd) {
         define(tones);
