@@ -7,20 +7,18 @@ The tones api is drop dead simple. One main method: `play`.
 
 The play method can be used in a few different ways:
 
-1. Play a tone at a specific frequency:
+1. Play a tone at a specific frequency.
+2. Play a named note in the default 4th octave.
+3. Play a named note in a specific octave.
+ 
+Examples:
 
 	tones.play(440);		// plays a 440 hz tone
-
-2. Play a named note in the default 4th octave:
-
 	tones.play("c");		// plays a C note in the 4th octave.
 	tones.play("c#");		// plays a C sharp note in the 4th octave.
 	tones.play("eb");		// plays an E flat note in the 4th octave.
-
-3. Play a named note in a specific octave:
-
 	tones.play("c", 2);		// plays a C note in the 2nd octave.
-
+	
 Named notes are case insensitive. "c" is the same as "C".
 
 There are also a few properties that affect the sound of the tone played. Set these before playing a tone and they will affect all future tones played.
