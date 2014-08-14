@@ -235,6 +235,7 @@ require(["tones"], function(tones) {
         canvas.style.position = "absolute";
         canvas.style.left = 0;
         canvas.style.top = 0;
+        canvas.style.zIndex = -100;
         document.body.style.margin = 0;
         document.body.appendChild(canvas);
         tones.attack = 1;
