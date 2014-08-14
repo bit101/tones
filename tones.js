@@ -17,7 +17,7 @@
             envelope.gain.setValueAtTime(0, this.context.currentTime);
             envelope.gain.setTargetAtTime(this.volume, this.context.currentTime, this.attack / 1000);
             if(this.release) {
-                envelope.gain.setTargetAtTime(0, this.context.currentTime + this.attack / 1000, this.release / 1000);
+                envelope.gain.setTargetAtTime(0, this.context.currentTime + this.attack / 100, this.release / 1000);
                 setTimeout(function() {
                     osc.stop();
                     osc.disconnect(envelope);
