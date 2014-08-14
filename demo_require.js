@@ -232,6 +232,9 @@ require(["tones"], function(tones) {
             height = canvas.height = window.innerHeight;
 
         canvas.style.display = "block";
+        canvas.style.position = "absolute";
+        canvas.style.left = 0;
+        canvas.style.top = 0;
         document.body.style.margin = 0;
         document.body.appendChild(canvas);
         tones.attack = 1;
