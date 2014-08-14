@@ -1,0 +1,879 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setValueAtTime"
+			],
+			[
+				"re",
+				"returnTone"
+			],
+			[
+				"de",
+				"_decay"
+			],
+			[
+				"attac",
+				"_attack"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"creat",
+				"createGain"
+			],
+			[
+				"fr",
+				"frequency"
+			],
+			[
+				"fre",
+				"freq"
+			],
+			[
+				"cre",
+				"createOscillator"
+			],
+			[
+				"co",
+				"colorMinMaj"
+			],
+			[
+				"im",
+				"imageData"
+			],
+			[
+				"sour",
+				"sourceIndex"
+			],
+			[
+				"sourc",
+				"sourceCanvas"
+			],
+			[
+				"s",
+				"sourceImageData"
+			],
+			[
+				"sou",
+				"sourceContext"
+			],
+			[
+				"mu",
+				"multiCurveLoop"
+			],
+			[
+				"dra",
+				"drawHair"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"shadow",
+				"shadowOffsetX"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"gri",
+				"gridSize"
+			],
+			[
+				"thir",
+				"thirdLineWidth"
+			],
+			[
+				"thi",
+				"thirdRes"
+			],
+			[
+				"stro",
+				"stroke"
+			],
+			[
+				"ma",
+				"majorDotSize"
+			],
+			[
+				"m",
+				"majorDotSize"
+			],
+			[
+				"maj",
+				"majorResX"
+			],
+			[
+				"min",
+				"minorResX"
+			],
+			[
+				"_u",
+				"_useMajor"
+			],
+			[
+				"_us",
+				"_useMajor"
+			],
+			[
+				"po",
+				"_postDraw"
+			],
+			[
+				"mjorr",
+				"majorResY"
+			],
+			[
+				"mi",
+				"minorResX"
+			],
+			[
+				"ang",
+				"angle153"
+			],
+			[
+				"cos",
+				"cos30"
+			],
+			[
+				"pr",
+				"_predraw"
+			],
+			[
+				"majorr",
+				"majorResY"
+			],
+			[
+				"minorr",
+				"minorResY"
+			],
+			[
+				"mn",
+				"minorResX"
+			],
+			[
+				"ra",
+				"radiusRange"
+			],
+			[
+				"rot",
+				"rotation"
+			],
+			[
+				"b",
+				"beginPath"
+			],
+			[
+				"be",
+				"bezierCurveTo"
+			],
+			[
+				"stroke",
+				"strokeCircle"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"ran",
+				"randomRGB"
+			],
+			[
+				"col",
+				"colorB"
+			],
+			[
+				"colo",
+				"colorA"
+			],
+			[
+				"cha",
+				"charAt"
+			],
+			[
+				"setRG",
+				"setRGBA"
+			],
+			[
+				"_b",
+				"_boundProperty"
+			],
+			[
+				"_",
+				"_boundProperty"
+			],
+			[
+				"_bou",
+				"_boundObject"
+			],
+			[
+				"r",
+				"results_template"
+			],
+			[
+				"ti",
+				"titleText"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"strok",
+				"strokeStyle"
+			],
+			[
+				"qu",
+				"quadraticCurveTo"
+			],
+			[
+				"hand",
+				"handleGravitations"
+			],
+			[
+				"spr",
+				"springLength"
+			],
+			[
+				"sp",
+				"springs"
+			],
+			[
+				"han",
+				"handleGravitations"
+			],
+			[
+				"par",
+				"particles"
+			],
+			[
+				"spri",
+				"springLength"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"th",
+				"thrusting"
+			],
+			[
+				"tur",
+				"turningLeft"
+			],
+			[
+				"cen",
+				"centerY"
+			],
+			[
+				"paep",
+				"paperCanvas"
+			],
+			[
+				"speed",
+				"speedX"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 5205,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tones.js",
+			"settings":
+			{
+				"buffer_size": 4646,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 784.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+			"os.path.expanduser(\"~\")",
+			"os.path.expandUser(\"~\")",
+			"os.name",
+			"include os",
+			"import os",
+			"os",
+			"~",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Keith/Projects/BitLib/effects/demo_require.html",
+		"/C/Users/Keith/Projects/BitLib/effects/perlin.js",
+		"/C/Users/Keith/Projects/BitLib/shaky/shakydemo.js",
+		"/C/Users/Keith/Projects/BitLib/shaky/shakydemorequire.js",
+		"/C/Users/Keith/Projects/BitLib/effects/demo.html",
+		"/C/Users/Keith/Projects/BitLib/effects/effects.js",
+		"/C/Users/Keith/Projects/BitLib/effects/effectsdemorequire.js",
+		"/C/Users/Keith/BitLib/grid/griddemorequire.js",
+		"/C/Users/Keith/BitLib/grid/grid.js",
+		"/C/Users/Keith/BitLib/shapes/shapesdemorequire.js",
+		"/C/Users/Keith/BitLib/shapes/README.md",
+		"/C/Users/Keith/BitLib/shapes/index.html",
+		"/C/Users/Keith/BitLib/shapes/shapes.js",
+		"/C/Users/Keith/BitLib/shapes/shapesdemo.js",
+		"/C/Users/Keith/BitLib/shaky/README.md",
+		"/C/Users/Keith/BitLib/shapes/demo_require.html",
+		"/C/Users/Keith/BitLib/grid/griddemo.js",
+		"/C/Users/Keith/BitLib/grid/demo_require.html",
+		"/C/Users/Keith/BitLib/grid/demo.html",
+		"/C/Users/Keith/ColorLib/shapes/demo.html",
+		"/C/Users/Keith/ColorLib/shapes/demo_require.html",
+		"/C/Users/Keith/ColorLib/clrs/demo.js",
+		"/C/Users/Keith/ColorLib/clrs/demo.html",
+		"/C/Users/Keith/ColorLib/shaky/shaky.js",
+		"/C/Users/Keith/ColorLib/clrs/clrs.js",
+		"/C/Users/Keith/ColorLib/index.html",
+		"/C/Users/Keith/ColorLib/clrs/demorequire.js",
+		"/C/Users/Keith/ColorLib/clrs/demorequire.html",
+		"/C/Users/Keith/ColorLib/shaky/README.md",
+		"/C/Users/Keith/ColorLib/shaky/demo_require.html",
+		"/C/Users/Keith/ColorLib/shaky/shakydemorequire.js",
+		"/C/Users/Keith/ColorLib/shaky/shakydemo.js",
+		"/C/Users/Keith/ColorLib/clrs/README.md",
+		"/C/Users/Keith/ColorLib/scripts/shakydemo.js",
+		"/C/Users/Keith/ColorLib/shaky/demo.html",
+		"/C/Users/Keith/ColorLib/lib/clrs.js",
+		"/C/Users/Keith/ColorLib/scripts/clrs.js",
+		"/C/Users/Keith/Documents/Aquent/Lesson5/lesson5/main.js",
+		"/C/Users/Keith/www/data.txt",
+		"/C/Users/Keith/www/scripts/main.js",
+		"/C/Users/Keith/www/styles/main.css",
+		"/C/Users/Keith/www/index.html",
+		"/C/Users/Keith/Documents/Aquent/Lesson5/lesson5/index.html",
+		"/C/Users/Keith/Documents/Aquent/Lesson5/lesson5/simple_get.html",
+		"/C/Users/Keith/Documents/Aquent/Lesson5/lesson5/movies.html",
+		"/C/Users/Keith/Documents/Aquent/Lesson5/lesson5/movies.js",
+		"/C/Users/Keith/Documents/Aquent/Lesson5/Yahoo/data.json",
+		"/C/Users/Keith/documents/codingmath/Episode20/code/main2.js",
+		"/C/Users/Keith/documents/codingmath/Episode20/code/index.html",
+		"/C/Users/Keith/documents/codingmath/Episode20/code/main1.js",
+		"/C/Users/Keith/documents/codingmath/Episode20/code/utils.js",
+		"/C/Users/Keith/Documents/CodingMath/Episode20/code/main3.js",
+		"/C/Users/Keith/Documents/CodingMath/mini10/code/circle.js",
+		"/C/Users/Keith/documents/codingmath/episode19/code/utils.js",
+		"/C/Users/Keith/documents/codingmath/episode19/code/demo3.js",
+		"/C/Users/Keith/Documents/CodingMath/episode19/code/demo6.js",
+		"/C/Users/Keith/documents/codingmath/episode19/code/index.html",
+		"/C/Users/Keith/Documents/CodingMath/episode19/code/demo4.js",
+		"/C/Users/Keith/documents/codingmath/episode19/code/demo1.js",
+		"/C/Users/Keith/Documents/CodingMath/Mini9/code/index.html",
+		"/C/Users/Keith/Documents/CodingMath/Mini9/code/main2.js",
+		"/C/Users/Keith/Documents/CodingMath/Mini9/code/main.js",
+		"/C/Users/Keith/Documents/CodingMath/Mini9/code/highres.js",
+		"/C/Users/Keith/Documents/CodingMath/Mini9/code/main3.js",
+		"/C/Users/Keith/Documents/CodingMath/Mini9/code/utils.js",
+		"/C/Users/Keith/Documents/codingmath/episode18/code/index.html",
+		"/C/Users/Keith/Documents/codingmath/episode18/code/spring1.js",
+		"/C/Users/Keith/Documents/codingmath/episode18/code/main.js",
+		"/C/Users/Keith/Documents/codingmath/episode18/code/particle.js",
+		"/C/Users/Keith/Documents/CodingMath/episode18/code/multigravity.js",
+		"/C/Users/Keith/Documents/CodingMath/episode18/code/particle2.js",
+		"/C/Users/Keith/Documents/CodingMath/episode18/code/spring2.js",
+		"/C/Users/Keith/Documents/CodingMath/episode18/code/main2.js",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode16.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/mini3.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/styles/main.css",
+		"/C/Users/Keith/Documents/CodingMath/Site/index.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode10.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/nav.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/mini2.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/feed.rss2",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/update1.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode9.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/mini1.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/.htaccess",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode1.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode2.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode3.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode4.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode5.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode6.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/qa1.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode7.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode8.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/scripts/main.js",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/welcome.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/feed.rss2.xml",
+		"/C/Users/Keith/Documents/CodingMath/Site/Site.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Site/Site.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Episode 7/code/vector.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 7/code/vector.bak.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 6/code/index.html",
+		"/C/Users/Keith/Documents/Coding Math/episode 4/code/code.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Episode 4/code/code.js",
+		"/C/Users/Keith/Documents/Coding Math/episode 4/code/trig02.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 4/code/bees.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 4/code/text.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 2/code/episode2.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Episode 4/code/episode4.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Episode 3/code/index.html",
+		"/C/Users/Keith/Documents/Coding Math/Episode 3/code/trig02.js",
+		"/C/Users/Keith/Documents/Coding Math/title.html",
+		"/C/Users/Keith/Documents/Coding Math/Episode 2/code/trig01.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 2/code/code.sublime-project",
+		"/C/Users/Keith/Documents/CodingMath/episode1/sample/index.html",
+		"/C/Users/Keith/Documents/CodingMath/episode1/sample/main.js",
+		"/C/Users/Keith/playing-with-curves/code/circle01.html",
+		"/C/Users/Keith/playing-with-curves/code/pinto.js",
+		"/C/Users/Keith/playing-with-curves/code/pinto.html",
+		"/C/Users/Keith/playing-with-curves/code/ellipse.js",
+		"/C/Users/Keith/playing-with-curves/code/ellipse.html",
+		"/C/Users/Keith/playing-with-curves/code/sine.js",
+		"/C/Users/Keith/playing-with-curves/code/sineanim.js",
+		"/C/Users/Keith/playing-with-curves/code/sineanim.html",
+		"/C/Users/Keith/playing-with-curves/code/circle02.js",
+		"/C/Users/Keith/playing-with-curves/code/sine.html",
+		"/C/Users/Keith/playing-with-curves/code/curve.js",
+		"/C/Users/Keith/playing-with-curves/code/circle02.html"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tones.",
+			"tones.context",
+			"this._osc",
+			"this._gain",
+			"this._context",
+			"\"B",
+			"\"A",
+			"\"G",
+			"\"F",
+			"\"E",
+			"\"D",
+			"\"C",
+			",\\n\\}",
+			",\\n}",
+			"(\\d+)\\n",
+			",,",
+			"(\\d+\\.\\d+)",
+			"\"(.+)/(.+)\": (\\d+\\.\\d+)",
+			", freq: ",
+			"octave: \\d, ",
+			" / ",
+			"(.# / ..),",
+			"\\n([^,]),",
+			" / ",
+			"(freq: [\\d.]+).*",
+			"\\t(\\d)\\t",
+			"\\t0\\t",
+			"decay",
+			"this._decay",
+			"this._attack",
+			"_context",
+			"this.",
+			" {",
+			": function(",
+			"return",
+			"function ([^\\(]*)",
+			": function",
+			" {",
+			": function",
+			"size",
+			"resx",
+			"useminor(",
+			"usemajor(",
+			"userminor",
+			"useMajor(",
+			"				\n",
+			" //",
+			" {",
+			": function",
+			"variation",
+			"4",
+			"setXY",
+			"res",
+			".res",
+			"res",
+			"this.res",
+			" {",
+			": function",
+			"this.res - this.res / 2",
+			"this.res * 2 - this.res",
+			"res",
+			": function",
+			" {",
+			": function",
+			"_color",
+			", [",
+			"\\n",
+			"\\s{2,}",
+			"\\s{3,}",
+			"\\s{3}",
+			"\\s",
+			"\\s?",
+			"#\\S*",
+			"#f0f8ff",
+			"header",
+			"http://codingmath.com",
+			"<p><a>",
+			"<br/>",
+			"li",
+			");\n",
+			"50",
+			";\n",
+			"10",
+			"![",
+			"draw",
+			"π",
+			"4 π",
+			"2 π",
+			"PI",
+			"Trigonometry",
+			"chaos",
+			"console",
+			"children",
+			"console",
+			"draw"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.",
+			"this.context",
+			"osc",
+			"gain",
+			"tones.context",
+			"\"b",
+			"\"a",
+			"\"g",
+			"\"f",
+			"\"e",
+			"\"d",
+			"\"c",
+			"\\n}",
+			"$1,\\n",
+			",",
+			"$1,",
+			"\"$1\": $3,\\n\"$2\": $3",
+			": ",
+			"",
+			"/",
+			"\"$1\",",
+			"\\n\"$1\",",
+			"\\n",
+			"$1",
+			", octave: $1, freq: ",
+			"release",
+			"tones.decay",
+			"tones.attack",
+			"this._",
+			"",
+			"(",
+			"$1: function",
+			"$1:",
+			"$1: function",
+			"",
+			"useMinor(context",
+			"useMajor(context",
+			"useMinor",
+			"useMajor(context",
+			"",
+			" // ",
+			"",
+			"_setXY",
+			"segSize",
+			".segSize",
+			"segSize",
+			"this.segSize",
+			" // ",
+			"",
+			"this.shake - this.shake / 2",
+			"this.res - this.res / 2",
+			"this.res",
+			"",
+			": [",
+			"],\\n",
+			"],",
+			", [",
+			", [/",
+			"",
+			"posts/episode8.html",
+			"<p><a href=\"http://codingmath.com\">",
+			"</p>",
+			"a",
+			"4π",
+			"2π",
+			"π",
+			"curve"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4145,
+								4633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tones.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1183,
+								1183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "AudioLib.sublime-project",
+	"replace":
+	{
+		"height": 120.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Keith\\Documents\\CodingMath\\Episode 12\\code\\code.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 429.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
