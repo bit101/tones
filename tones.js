@@ -19,7 +19,7 @@
             if(this.release) {
                 envelope.gain.setTargetAtTime(0, this.context.currentTime + this.attack / 1000, this.release / 1000);
                 setTimeout(function() {
-                    osc.stop();
+                    osc.stop(0);
                     osc.disconnect(envelope);
                     envelope.gain.cancelScheduledValues(tones.context.currentTime);
                     envelope.disconnect(tones.context.destination);
@@ -31,7 +31,7 @@
             osc.frequency.setValueAtTime(freq, this.context.currentTime);
             osc.type = this.type;
             osc.connect(envelope);
-            osc.start();
+            osc.start(0);
         },
 
         /** 
